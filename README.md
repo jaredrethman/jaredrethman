@@ -4,4 +4,4 @@
 * I've built software using various languages and stacks, I am most confortable using JS.
 * I'm currently learning Rust.
 
-Lets connect on [linked.com](https://www.linkedin.com/in/jaredrethman)
+[Lets connect >>](https://www.linkedin.com/in/jaredrethman)
